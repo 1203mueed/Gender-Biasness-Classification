@@ -1,2 +1,2 @@
 # Gender-Biasness-Classification
-This project was for HerWILL: AI for Equality Datathon 2024. The main objective of this competition was to get better results with few parameters. The dataset was a text dataset contained in a csv file.
+Developed an efficient and accurate gender bias classification model as part of the HerWILL: AI for Equality Datathon 2024, where the goal was to identify bias against male, female, and non-binary individuals across various texts. This solution achieved high performance in both accuracy and efficiency, placing 3rd overall in the competition. The project demonstrates the innovative use of deep learning and optimization techniques to ensure low parameter count and high F1NOP score, balancing model complexity and predictive power.
